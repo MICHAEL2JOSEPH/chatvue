@@ -1,6 +1,8 @@
 <template>
   <div>
-    
+    <MainBackground />
+
+    <Nuxt />
   </div>
 </template>
 
